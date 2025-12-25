@@ -2,7 +2,7 @@
 
 ## ¿Qué es Quickplan?
 
-QuickPlan es una aplicación de página única (**SPA**) desarrollada con **React** para la exploración, filtrado y gestión de eventos. Los usuarios pueden navegar por un catálogo de eventos, realizar búsquedas dinámicas, filtrar por categorías, consultar información detallada y mantener una lista personalizada de favoritos que persiste entre sesiones del navegador.
+QuickPlan es una aplicación de página única (**SPA**) **completamente responsive** desarrollada con **React** para la exploración, filtrado y gestión de eventos. Los usuarios pueden navegar por un catálogo de eventos, realizar búsquedas dinámicas, filtrar por categorías, consultar información detallada y mantener una lista personalizada de favoritos que persiste entre sesiones del navegador.
 
 ---
 
@@ -36,6 +36,16 @@ QuickPlan es una aplicación de página única (**SPA**) desarrollada con **Reac
       <td colspan="2" align="center"><img src="./screenshots/detalle.png" alt="Detalle" width="800px"></td>
     </tr>
   </table>
+</div>
+
+### Adaptación Móvil
+
+> La aplicación detecta el tamaño de pantalla y ajusta el diseño y el logo para una mejor experiencia.
+
+<div align="center">
+  <img src="./screenshots/mobile.png" alt="Vista Móvil" width="250px">
+  <br>
+  <i>Interfaz adaptada con cambio de logo dinámico</i>
 </div>
 
 ---
