@@ -5,7 +5,7 @@ main.home {
 .home-header {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
 }
 
 .filter-bar {

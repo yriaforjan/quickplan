@@ -1,12 +1,16 @@
 import { Link, NavLink } from "react-router-dom";
 import logo from "../../../assets/logo.png";
+import logoMobile from "../../../assets/logo-mobile.png";
 import "./Header.css";
 
 const Header = () => {
   return (
     <header>
       <Link to="/">
-        <img className="logo" src={logo} alt="logo" />
+        <picture>
+          <source media="(max-width: 480px)" srcSet={logoMobile} />
+          <img className="logo" src={logo} alt="QuickPlan Logo" />
+        </picture>
       </Link>
       <nav>
         <ul>
