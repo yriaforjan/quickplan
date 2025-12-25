@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #242424;
+}
+
+header img {
+  height: 25px;
+  width: auto;
+  object-fit: contain;
+  align-self: left;
+  margin-left: -28px;
+}
+
+header ul {
+  display: flex;
+  gap: 20px;
+}
