@@ -1,8 +1,16 @@
 # Quickplan - Agenda de eventos
 
+[![Status](https://img.shields.io/badge/Status-Pendiente%20de%20Revisión-orange.svg)](https://github.com/yriaforjan/quickplan)
+
 ## ¿Qué es Quickplan?
 
 QuickPlan es una aplicación de página única (**SPA**) **completamente responsive** desarrollada con **React** para la exploración, filtrado y gestión de eventos. Los usuarios pueden navegar por un catálogo de eventos, realizar búsquedas dinámicas, filtrar por categorías, consultar información detallada y mantener una lista personalizada de favoritos que persiste entre sesiones del navegador.
+
+## 🌐 Despliegue
+
+El proyecto se encuentra desplegado y puede visualizarse en tiempo real a través del siguiente enlace:
+
+🚀 **[Ver Demo en Vivo](https://quickplan-daw.vercel.app/)**
 
 ---
 
